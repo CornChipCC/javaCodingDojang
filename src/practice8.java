@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/* 메모리공간을 동적으로 사용하여 데이터 관리하기 */
 public class practice8 {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
