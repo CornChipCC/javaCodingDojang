@@ -24,9 +24,7 @@ public class practice13 {
                 continue;
             }
             int num = Integer.parseInt(list.get(i));
-            int num2 = Integer.parseInt(list.get(i-1));
-            
-            
+            int num2 = Integer.parseInt(list.get(i-1));            
             if(num % 2 == num2 % 2){
                 if(num % 2 == 1){
                     list.add(i, "-");
