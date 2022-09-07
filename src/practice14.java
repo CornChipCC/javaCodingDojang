@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.IntSummaryStatistics;
+/* 완전수 구하기 */
 public class practice14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
