@@ -1,6 +1,6 @@
 import java.util.ArrayList;
-import java.util.Collections;
 
+/* 넥슨 입사문제(셀프넘버 찾기) */
 public class practice31 {
     public static void main(String[] args) {
         ArrayList<Integer> answerList = new ArrayList<Integer>();
