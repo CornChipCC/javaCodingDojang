@@ -9,8 +9,7 @@ public class practice34 {
         
         String[] strList = str.split(" ");
         String[] tempList = new String[strList.length-1];
-
-        String[] answerList = new String[strList.length-1];
+        
         for (int i = 0; i < tempList.length; i++) {
             tempList[i] = strList[i+1];
         }
