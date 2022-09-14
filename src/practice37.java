@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+/* 아마존 면접문제(그 시간 사무실에 몇명이 있었나?) */
 public class practice37 {
     String[] times={"09:12:23 11:14:35","10:34:01 13:23:40","10:34:31 11:20:10"};
     int cntMem=0;
