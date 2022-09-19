@@ -1,3 +1,4 @@
+/* 간단한 몬테카를로 방법 */
 public class practice62 {
     public static void main(String[] args) {
         double count = 0.0;
